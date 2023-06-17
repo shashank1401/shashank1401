@@ -21,7 +21,7 @@
 <a href="https://stackoverflow.com/users/7859947/shashank-jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/7859947/shashank-jaiswal" height="30" width="40" /></a>
 <a href="https://kaggle.com/shashank140191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shashank140191" height="30" width="40" /></a>
 <a href="https://medium.com/@shashank1401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shashank1401" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shashankjaiswal6/hackos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shashankjaiswal6" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shashankjaiswal6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@shashankjaiswal.1401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shashankjaiswal.1401" height="30" width="40" /></a>
 </p>
 
